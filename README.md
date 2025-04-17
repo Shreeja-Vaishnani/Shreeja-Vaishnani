@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreeja Vipulkumar Vaishnani</h1>
-<h3 align="center">A passionate frontend developer from IndiaTech enthusiast who loves solving problems with C,C++, Python, and electronics. Into DSA, learning AI and web technologies.</h3>
+<h3 align="center">Tech enthusiast who loves solving problems with C,C++, Python, and electronics. Into DSA, learning AI and web technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreeja-vaishnani&label=Profile%20views&color=0e75b6&style=flat" alt="shreeja-vaishnani" /> </p>
 

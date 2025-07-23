@@ -8,7 +8,7 @@
 ## 👩‍💻 About Me
 
 
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 - 🎓 **Computer Engineering Student** passionate about code  
 - 💻 Skilled in `C`, `C++`, `Python`  
 - 🌱 Learning HTML, CSS & Web Development  

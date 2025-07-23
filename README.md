@@ -1,27 +1,29 @@
-<!-- Code-Themed Animation + Typing Banner -->
-<table width="100%">
-  <tr>
-    <td width="48%">
-      <img align="left" alt="Girl coding animation" height="260" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-    </td>
-    <td>
-      <div align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFC3&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Shreeja+Vipulkumar+Vaishnani+%F0%9F%91%8B;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG" />
-      </div>
-    </td>
-  </tr>
-</table>
+<!-- Typing Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFC3&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Shreeja+Vipulkumar+Vaishnani+%F0%9F%91%8B;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 **Computer Engineering student** passionate about coding and tech innovation.  
-💻 Skilled in **C, C++, Python**, and **Digital Electronics**  
-📚 Currently learning **HTML** & **CSS** to dive into Web Dev  
-🧠 Exploring **DSA**, **AI**, and **real-world project building**  
-🌟 **3⭐ in C++ on HackerRank**  
-📫 Reach me: **shreejavaishnani01@gmail.com**
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      
+🎓 I'm a **Computer Engineering student** who loves building things with code.  
+💻 Skilled in `C`, `C++`, `Python`, and **Digital Electronics**  
+🌱 Currently learning **HTML & CSS**, diving into **Web Development**  
+🧠 Exploring **DSA**, **AI**, and **problem-solving**  
+🏆 **3⭐ in C++ on HackerRank**  
+📬 Contact: **shreejavaishnani01@gmail.com**
+
+   </td>
+   <td>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="200" style="border-radius: 10px;" alt="Code GIF"/>
+   </td>
+  </tr>
+</table>
 
 ---
 
@@ -41,7 +43,7 @@
 
 ---
 
-## ⚙️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -54,7 +56,7 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreeja-vaishnani&show_icons=true&theme=radical" height="170px"/>
@@ -67,10 +69,10 @@
 
 ---
 
-## 🌄 GitHub Skyline (Last Year)
+## 🗺️ GitHub Skyline (Last Year)
 
-> 🎇 3D visualization of my 2024 contributions  
-🔗 [View in 3D on GitHub Skyline](https://skyline.github.com/shreeja-vaishnani/2024)
+> 📈 Visualizing contributions in 3D  
+🔗 [View your Skyline](https://skyline.github.com/shreeja-vaishnani/2024)
 
 <p align="center">
   <img src="https://skyline.github.com/shreeja-vaishnani/2024.svg" width="95%" />
@@ -86,11 +88,11 @@
 
 ---
 
-## 💡 Quote I Believe In
+## 💡 Developer Quote
 
-> _“Stay hungry. Stay foolish.”_ — **Steve Jobs**  
-> ✨ I believe in growing by solving, building, failing, and learning!
+> _"Code is the closest thing we have to magic."_  
+> ✨ Let’s build something meaningful every day.
 
 ---
 
-⭐ *If you liked this, consider giving a ⭐ to my projects to show support!*
+⭐ *If you liked this, consider starring a few of my projects — it motivates me a lot!*

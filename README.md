@@ -1,6 +1,6 @@
-<!-- Centered Typing Effect -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFC3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shreeja+Vipulkumar+Vaishnani+%F0%9F%91%8B;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFC3&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,16 +11,16 @@
   <tr>
     <td width="60%" valign="top">
 
-- 🎓 **Computer Engineering Student** passionate about tech  
-- 💻 Love solving problems using `C`, `C++`, `Python`  
-- 🌐 Currently learning **HTML & CSS** to build web apps  
-- 🧠 Exploring **DSA**, **AI**, and real-world coding  
-- 🏆 **3⭐ in C++ on HackerRank**  
-- 📧 **Email**: shreejavaishnani01@gmail.com
+- 🎓 **Computer Engineering Student** passionate about code  
+- 💻 Skilled in `C`, `C++`, `Python`  
+- 🌱 Learning HTML, CSS & Web Development  
+- 🧠 Exploring DSA and AI basics  
+- ⭐ 3-Star C++ on HackerRank  
+- 📧 Email: shreejavaishnani01@gmail.com  
 
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/8b/26/fe/8b26fe538dcfac6a0c8f6d09f6d57d3c.gif" width="230" alt="Coding Girl GIF" />
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b0c9210c63dd1e081cb31.gif" width="230" alt="Animated Girl Coding" />
     </td>
   </tr>
 </table>
@@ -43,15 +43,14 @@
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -59,40 +58,28 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreeja-vaishnani&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeja-vaishnani&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreeja-vaishnani&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeja-vaishnani&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreeja-vaishnani&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreeja-vaishnani&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌄 GitHub Skyline (3D Contribution)
+## 🧠 GitHub Contribution Graph (Animated)
 
-🔗 [View it in 3D →](https://skyline.github.com/shreeja-vaishnani/2024)
-
-<p align="center">
-  <img src="https://github.com/shreeja-vaishnani/shreeja-vaishnani/blob/main/assets/skyline.png" width="90%" alt="GitHub Skyline (screenshot upload recommended)" />
-</p>
-
-> 💡 You need to [download your GitHub Skyline](https://skyline.github.com/shreeja-vaishnani/2024), take a screenshot, and upload it to your GitHub repo under `/assets/skyline.png`.
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreeja-vaishnani&theme=react-dark&area=true)
 
 ---
 
-## ⚡ Contribution Graph (Animated)
+## 🗺️ GitHub Skyline (3D Contributions)
 
-<p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=shreeja-vaishnani&bg=transparent&color=00ffc3&line=00ffc3&point=ffffff&area=true&hide_border=true" />
-</p>
+> 📸 Replace below image with your actual [skyline.github.com](https://skyline.github.com/) snapshot image
 
----
-
-## 💡 Quote I Like
-
-> _"It's not about being the best, it's about being better than you were yesterday."_
+<img src="https://user-images.githubusercontent.com/67447840/224884148-62b6df1e-dbe9-4c7f-9be3-bd1b45c6f8c4.png" width="100%" />
 
 ---
 
-⭐ *Thanks for visiting! Star ⭐ any of my repositories if you find them interesting or helpful!*
+> 🚀 *Passionate about learning, building and sharing—one commit at a time!*

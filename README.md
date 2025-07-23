@@ -8,7 +8,8 @@
 ## 👩‍💻 About Me
 
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<img align="right" src="https://lottiefiles.com/pack/girl-coder-with-idea/1f1f24171a3c7f0f0743b60ca87b6141.gif" width="250" alt="Girl coding animated"/>
+
 - 🎓 **Computer Engineering Student** passionate about code  
 - 💻 Skilled in `C`, `C++`, `Python`  
 - 🌱 Learning HTML, CSS & Web Development  

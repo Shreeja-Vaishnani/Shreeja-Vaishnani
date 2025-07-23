@@ -80,6 +80,13 @@
 
 <img src="https://user-images.githubusercontent.com/67447840/224884148-62b6df1e-dbe9-4c7f-9be3-bd1b45c6f8c4.png" width="100%" />
 
+
+---
+## 💡 Developer Quote
+
+> _"Code is the closest thing we have to magic."_  
+> ✨ Let’s build something meaningful every day.
+
 ---
 
-> 🚀 *Passionate about learning, building and sharing—one commit at a time!*
+⭐ *If you liked this, consider starring a few of my projects — it motivates me a lot!*

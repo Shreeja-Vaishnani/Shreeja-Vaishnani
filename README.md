@@ -8,7 +8,7 @@
 ## 👩‍💻 About Me
 
 
-<img align="right" src="<<YOUR_CHOSEN_GIF_URL>>" width="250" alt="Female coder animation" />
+ <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB0MWVjMzJxdmN6OGw1em1xb3dzbXgxa2ZqcmI1Z2p5YmY0dXF1NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ah3zHH7hvsSB2/giphy.gif" width="250" alt="Girl coder animation" />
 
 - 🎓 **Computer Engineering Student** passionate about code  
 - 💻 Skilled in `C`, `C++`, `Python`  

@@ -1,14 +1,13 @@
 <!-- Centered Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFC3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shreeja+Vipulkumar+Vaishnani+%F0%9F%91%8B;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFC3&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-
- <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB0MWVjMzJxdmN6OGw1em1xb3dzbXgxa2ZqcmI1Z2p5YmY0dXF1NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ah3zHH7hvsSB2/giphy.gif" width="250" alt="Girl coder animation" />
+<img align="right" src="https://assets3.lottiefiles.com/private_files/lf30_3Dcoder.gif" width="250" alt="Girl coding animated" />
 
 - 🎓 **Computer Engineering Student** passionate about code  
 - 💻 Skilled in `C`, `C++`, `Python`  
@@ -72,8 +71,8 @@
 
 <img src="https://user-images.githubusercontent.com/67447840/224884148-62b6df1e-dbe9-4c7f-9be3-bd1b45c6f8c4.png" width="100%" />
 
-
 ---
+
 ## 💡 Developer Quote
 
 > _"Code is the closest thing we have to magic."_  

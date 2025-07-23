@@ -16,13 +16,6 @@
 - ⭐ 4-Star C++ on HackerRank  
 - 📧 Email: shreejavaishnani01@gmail.com  
 
-   
-   
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b0c9210c63dd1e081cb31.gif" width="230" alt="Animated Girl Coding" />
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 🌐 Connect with Me

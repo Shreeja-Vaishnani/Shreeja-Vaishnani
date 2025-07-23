@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-
+<img align="right" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="250" />
 - 🎓 **Computer Engineering Student** passionate about code  
 - 💻 Skilled in `C`, `C++`, `Python`  
 - 🌱 Learning HTML, CSS & Web Development  

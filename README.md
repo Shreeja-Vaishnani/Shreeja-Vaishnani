@@ -7,19 +7,17 @@
 
 ## 👩‍💻 About Me
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
+
 <img align="right" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="250" />
 - 🎓 **Computer Engineering Student** passionate about code  
 - 💻 Skilled in `C`, `C++`, `Python`  
 - 🌱 Learning HTML, CSS & Web Development  
 - 🧠 Exploring DSA and AI basics  
-- ⭐ 3-Star C++ on HackerRank  
+- ⭐ 4-Star C++ on HackerRank  
 - 📧 Email: shreejavaishnani01@gmail.com  
 
-    </td>
-    <td>
+   
+   
       <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b0c9210c63dd1e081cb31.gif" width="230" alt="Animated Girl Coding" />
     </td>
   </tr>

@@ -1,12 +1,12 @@
-<!-- Animated Coding + Typing Banner -->
+<!-- Code-Themed Animation + Typing Banner -->
 <table width="100%">
   <tr>
-    <td width="55%">
-      <img align="left" alt="Coding" height="250" style="border-radius:10px" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+    <td width="48%">
+      <img align="left" alt="Girl coding animation" height="260" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
     </td>
     <td>
       <div align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFC3&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shreeja+Vaishnani;Computer+Engineering+Student;Tech+Explorer+%F0%9F%92%BB+%F0%9F%92%AF;Problem+Solver+%7C+C%2B%2B+%2F+Python+%2F+HTML+CSS" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFC3&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Shreeja+Vipulkumar+Vaishnani+%F0%9F%91%8B;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG" />
       </div>
     </td>
   </tr>
@@ -16,12 +16,12 @@
 
 ## 👩‍💻 About Me
 
-🎓 I’m a **Computer Engineering student** passionate about solving real-world problems using code.  
-💡 Exploring **DSA**, **AI**, and **Web Development**.  
-🛠 Skilled in `C`, `C++`, `Python`, and **Digital Electronics**  
-🌐 Currently learning **HTML**, **CSS**, and ready to build amazing websites!  
-🏆 3⭐ in **C++ on HackerRank**  
-📬 Reach me at: **shreejavaishnani01@gmail.com**
+🎓 **Computer Engineering student** passionate about coding and tech innovation.  
+💻 Skilled in **C, C++, Python**, and **Digital Electronics**  
+📚 Currently learning **HTML** & **CSS** to dive into Web Dev  
+🧠 Exploring **DSA**, **AI**, and **real-world project building**  
+🌟 **3⭐ in C++ on HackerRank**  
+📫 Reach me: **shreejavaishnani01@gmail.com**
 
 ---
 
@@ -35,13 +35,13 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/24ce138_shreeja" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-success?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -67,12 +67,13 @@
 
 ---
 
-## 🌄 3D Skyline of My GitHub (Last Year)
+## 🌄 GitHub Skyline (Last Year)
 
-> Visit: [https://skyline.github.com/shreeja-vaishnani/2024](https://skyline.github.com/shreeja-vaishnani/2024)
+> 🎇 3D visualization of my 2024 contributions  
+🔗 [View in 3D on GitHub Skyline](https://skyline.github.com/shreeja-vaishnani/2024)
 
 <p align="center">
-  <img src="https://skyline.github.com/shreeja-vaishnani/2024.svg" alt="Skyline GitHub" width="95%" />
+  <img src="https://skyline.github.com/shreeja-vaishnani/2024.svg" width="95%" />
 </p>
 
 ---
@@ -85,10 +86,11 @@
 
 ---
 
-## 💡 Quote I Live By
+## 💡 Quote I Believe In
 
-> **“Stay hungry. Stay foolish.”** — *Steve Jobs*  
-> ✨ I believe in *learning by doing* and building a better future through code.
+> _“Stay hungry. Stay foolish.”_ — **Steve Jobs**  
+> ✨ I believe in growing by solving, building, failing, and learning!
 
 ---
-⭐ *If you like my profile, star ⭐ some repos to show support!*
+
+⭐ *If you liked this, consider giving a ⭐ to my projects to show support!*

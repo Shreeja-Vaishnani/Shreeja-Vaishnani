@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/8m4R4pvViWtRzbloJ1/giphy.gif" width="250" />
+<img align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250" />
 
 
 - 🎓 **Computer Engineering Student** passionate about code  

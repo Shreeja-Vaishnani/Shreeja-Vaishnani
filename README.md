@@ -8,7 +8,7 @@
 ## 👩‍💻 About Me
 
 
-<img align="right" src="FULL_URL_OF_IMAGE5" width="250" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
 - 🎓 **Computer Engineering Student** passionate about code  
 - 💻 Skilled in C, C++, Python  

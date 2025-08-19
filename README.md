@@ -74,7 +74,6 @@
   </picture>
 </div>
 
-
 ---
 ## 💡 Developer Quote
 

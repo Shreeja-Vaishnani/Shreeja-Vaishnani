@@ -65,17 +65,15 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreeja-vaishnani&theme=react-dark&area=true)
 
 ---
-## 🕹️ Pac-Man Eating Contributions
+## 👾 Pac-Man Eating Contributions
 <div align="center">
   <picture>
-    <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-pacman-dark.svg" />
-    <!-- Light mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-pacman.svg" />
-    <!-- Fallback -->
-    <img alt="GitHub Pac-Man Animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-pacman.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-pacman-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-pacman.svg" />
+    <img alt="GitHub Pac-Man Animation" src="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-pacman-dark.svg" />
   </picture>
 </div>
+
 
 ---
 ## 💡 Developer Quote

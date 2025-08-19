@@ -8,7 +8,8 @@
 ## 👩‍💻 About Me
 
 
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/…/Digital_rain_animation_medium_letters_shine.gif" width="250" />
+<img align="right" src="FULL_URL_OF_IMAGE5" width="250" />
+
 - 🎓 **Computer Engineering Student** passionate about code  
 - 💻 Skilled in C, C++, Python  
 - 🌱 Learning HTML, CSS & Web Development  

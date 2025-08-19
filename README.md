@@ -65,14 +65,15 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreeja-vaishnani&theme=react-dark&area=true)
 
 ---
-## 👾 Pac-Man Eating Contributions
+## 🚀 Spaceship Shooting Contributions
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-pacman-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-pacman.svg" />
-    <img alt="GitHub Pac-Man Animation" src="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-pacman-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-spaceship-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-spaceship.svg" />
+    <img alt="GitHub Spaceship Animation" src="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-spaceship-dark.svg" />
   </picture>
 </div>
+
 
 ---
 ## 💡 Developer Quote

@@ -65,14 +65,14 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreeja-vaishnani&theme=react-dark&area=true)
 
 ---
-
-## 🕵️ Issue Hunt Game
-Solve special puzzles hidden in the Issues tab!  
-✔️ Each solved issue = your name added to **Treasure Hunters Hall of Fame**.
-
-**Treasure Hunters:**
-- [ ] (empty... waiting for YOU!)
-
+## 👾 Pac-Man Eating Contributions
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-pacman-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-pacman.svg" />
+    <img alt="GitHub Pac-Man Animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-pacman-dark.svg" />
+  </picture>
+</div>
 
 ---
 ## 💡 Developer Quote

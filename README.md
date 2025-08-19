@@ -66,11 +66,12 @@
 
 ---
 
-## 🗺️ GitHub Skyline (3D Contributions)
+## 🕵️ Issue Hunt Game
+Solve special puzzles hidden in the Issues tab!  
+✔️ Each solved issue = your name added to **Treasure Hunters Hall of Fame**.
 
-> 📸 Replace below image with your actual [skyline.github.com](https://skyline.github.com/) snapshot image
-
-<img src="https://user-images.githubusercontent.com/67447840/224884148-62b6df1e-dbe9-4c7f-9be3-bd1b45c6f8c4.png" width="100%" />
+**Treasure Hunters:**
+- [ ] (empty... waiting for YOU!)
 
 
 ---

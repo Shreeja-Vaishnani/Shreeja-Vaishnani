@@ -74,8 +74,7 @@
     <img alt="GitHub Fireworks Animation" src="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/fireworks.svg" />
   </picture>
 
-  <!-- GIF version -->
-  <img alt="GitHub Fireworks GIF" src="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/fireworks.gif" />
+ 
 </div>
 
 

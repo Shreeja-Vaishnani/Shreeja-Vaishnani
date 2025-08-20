@@ -65,16 +65,14 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreeja-vaishnani&theme=react-dark&area=true)
 
 ---
-## 🎆 GitHub Fireworks Animation
+## 🎮 GitHub Contribution Tetris
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/fireworks-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/fireworks.svg" />
-    <img alt="GitHub Fireworks Animation" src="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/fireworks.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-contribution-tetris-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-contribution-tetris.svg" />
+    <img alt="GitHub Contribution Tetris" src="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-contribution-tetris.svg" />
   </picture>
-
- 
 </div>
 
 

@@ -65,13 +65,13 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreeja-vaishnani&theme=react-dark&area=true)
 
 ---
-## 🐦 GitHub Flappy Commits
+## 🕹️ GitHub Flappy Commits
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/output/github-flappy-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/output/github-flappy.svg" />
-    <img alt="GitHub Flappy Commits" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/output/github-flappy.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-flappy-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-flappy.svg" />
+    <img alt="GitHub Flappy Commits Game" src="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-flappy.svg" />
   </picture>
 </div>
 

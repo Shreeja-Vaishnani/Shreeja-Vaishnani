@@ -1,4 +1,4 @@
-name: Generate GitHub Contribution Fireworks
+name: Generate GitHub Contribution Brick Breaker
 
 on:
   schedule:
@@ -17,13 +17,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Fireworks Animation
+      - name: Generate Brick Breaker Game
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-fireworks.svg
-            dist/github-contribution-fireworks-dark.svg?palette=github-dark
+            dist/github-contribution-brickbreaker.svg
+            dist/github-contribution-brickbreaker-dark.svg?palette=github-dark
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v4

@@ -65,13 +65,13 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreeja-vaishnani&theme=react-dark&area=true)
 
 ---
-## 🎆 GitHub Contribution Fireworks
+## 🧱 GitHub Contribution Brick Breaker
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-contribution-fireworks-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-contribution-fireworks.svg" />
-    <img alt="GitHub Contribution Fireworks" src="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-contribution-fireworks.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-contribution-brickbreaker-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-contribution-brickbreaker.svg" />
+    <img alt="GitHub Contribution Brick Breaker" src="https://raw.githubusercontent.com/Shreeja-Vaishnani/Shreeja-Vaishnani/output/github-contribution-brickbreaker.svg" />
   </picture>
 </div>
 

@@ -1,9 +1,9 @@
-name: Generate GitHub Contribution Tetris
+name: Generate GitHub Contribution Fireworks
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight
-  workflow_dispatch:       # allows manual runs
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -15,16 +15,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Generate Tetris Game
+      - name: Generate Fireworks Animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-tetris.svg
-            dist/github-contribution-tetris-dark.svg?palette=github-dark
+            dist/github-contribution-fireworks.svg
+            dist/github-contribution-fireworks-dark.svg?palette=github-dark
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v4

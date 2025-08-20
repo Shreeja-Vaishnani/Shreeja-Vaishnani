@@ -23,18 +23,8 @@ jobs:
         with:
           node-version: 18
 
-      - name: Install Dependencies
-        run: npm install
-
       - name: Generate Flappy Commits Animation
-        run: node scripts/flappy.js
-        # 👆 flappy.js is your custom script that reads contributions and outputs SVG
-        # Example output: dist/github-flappy.svg + dist/github-flappy-dark.svg
+        run: npm run build
 
       - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: crazy-max

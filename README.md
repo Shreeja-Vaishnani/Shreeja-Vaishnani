@@ -11,7 +11,7 @@
 
 
 - 🎓 **Computer Engineering Student** passionate about code  
-- 💻 Skilled in C, C++, Python  
+- 💻 Skilled in C, C++
 - 🌱 Learning HTML, CSS & Web Development  
 - 🧠 Exploring DSA and AI basics  
 - ⭐ 4-Star C++ on HackerRank  
